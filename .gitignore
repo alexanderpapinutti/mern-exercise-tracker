@@ -27,5 +27,3 @@ backend/node_modules
 backend/.env
 backend/package-lock
 yarn.lock
-/src/serviceWorker
-/src/setupTests
